@@ -1,0 +1,5 @@
+预处理部分特征提取： 
+ 代码运行流程：calc_freq.m -> STL_decomposition.py -> feature_extraction.m
+
+
+
